@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/module3-1_PostEffects.unity
+  isLoaded: 1
+  isActive: 1
